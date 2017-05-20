@@ -195,12 +195,6 @@ $ curl -X POST -H "X-API-KEY: some_key_here" http://example.com/books
 
 * [NetTuts: Working with RESTful Services in CodeIgniter](http://net.tutsplus.com/tutorials/php/working-with-restful-services-in-codeigniter-2/)
 
-## Contributions
+## For More
 
-This project was originally written by Phil Sturgeon, however his involvement has shifted
-as he is no longer using it.  As of 2013/11/20 further development and support will be done by Chris Kacerguis.
-
-Pull Requests are the best way to fix bugs or add features. I know loads of you use this, so please
-contribute if you have improvements to be made and I'll keep releasing versions over time.
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/chriskacerguis/codeigniter-restserver/master/LICENSE)
+Check this repo for more information and update recent https://github.com/chriskacerguis/codeigniter-restserver
